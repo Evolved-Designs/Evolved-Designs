@@ -12,6 +12,7 @@ We also build and operate our own products:
 ## Practical resources
 
 - [Launch-to-Care Handoff](https://gist.github.com/Evolved-Designs/1f4ef4d7da13c16c0999401472b3a1ad) — a production-readiness checklist for teams moving from build to ongoing care.
+- [Website Security Maintenance Checklist](https://evolveddesigns.net/blog/cyber-security/a-practical-website-security-maintenance-checklist/?utm_source=github&utm_medium=profile&utm_campaign=security_maintenance_checklist) — a practical owner-level routine for updates, access, recovery, monitoring, and response, with clear in-house and handoff paths.
 - [30-Day Website Care Review](https://evolveddesigns.net/website-care-review/?utm_source=github&utm_medium=profile&utm_campaign=website_care_review) — a private browser-based review of critical journeys, accessibility, recovery readiness, and the first month of ongoing care.
 - [Website Rescue & Completion](https://evolveddesigns.net/website-rescue-completion/?utm_source=github&utm_medium=profile&utm_campaign=bounded_completion_phase) — a bounded path for finishing, repairing, testing, and handing off an existing WordPress or business website without forcing a needless rebuild.
 - [Public Website Project Review Handoff](https://gist.github.com/Evolved-Designs/3862ae4c205a4e84f085fc1cbdcfea0a) — the six non-confidential facts that make an initial technical review useful.
