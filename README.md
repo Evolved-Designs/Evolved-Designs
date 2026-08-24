@@ -14,7 +14,7 @@ We also build and operate our own products:
 - [Launch-to-Care Handoff](https://gist.github.com/Evolved-Designs/1f4ef4d7da13c16c0999401472b3a1ad) — a production-readiness checklist for teams moving from build to ongoing care.
 - [30-Day Website Care Review](https://evolveddesigns.net/website-care-review/?utm_source=github&utm_medium=profile&utm_campaign=website_care_review) — a private browser-based review of critical journeys, accessibility, recovery readiness, and the first month of ongoing care.
 - [Accessible Form Confirmation Handoff](https://gist.github.com/Evolved-Designs/56e17f910dd3f585a0bde8023eb19b3e) — a small implementation pattern for clearer form outcomes.
-- [Public Website Procurement Preflight](https://evolved-designs.github.io/public-website-procurement-preflight/) — a browser-private check that exposes the next scope or acceptance decision before vendor comparison.
+- [Public Website Procurement Preflight](https://evolved-designs.github.io/public-website-procurement-preflight/?utm_source=github&utm_medium=profile&utm_campaign=procurement_preflight) — a browser-private 12-decision check for scope, contract, submission, and acceptance readiness before vendor comparison.
 - [Website SEO & Digital Marketing Checklist](https://evolveddesigns.net/checklist/?utm_source=github&utm_medium=profile&utm_campaign=practical_resources) — a practical starting point for finding gaps in search, conversion, accessibility, and measurement.
 - [Municipal Website Modernization](https://evolveddesigns.net/municipal-website-modernization/?utm_source=github&utm_medium=profile&utm_campaign=public_service_modernization) — a resident-journey framework and private first-phase brief builder for public-service website teams.
 
