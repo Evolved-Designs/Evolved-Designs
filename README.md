@@ -21,4 +21,4 @@ We also build and operate our own products:
 - [Website SEO & Digital Marketing Checklist](https://evolveddesigns.net/checklist/?utm_source=github&utm_medium=profile&utm_campaign=practical_resources) — a practical starting point for finding gaps in search, conversion, accessibility, and measurement.
 - [Municipal Website Modernization](https://evolveddesigns.net/municipal-website-modernization/?utm_source=github&utm_medium=profile&utm_campaign=public_service_modernization) — a resident-journey framework and private first-phase brief builder for public-service website teams.
 
-Need a web system that is easier to launch, measure, or maintain? [Tell us where it is getting stuck](https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=profile&utm_campaign=developer_proof).
+Need a web system that is easier to launch, measure, or maintain? [Tell us privately where it is getting stuck](https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=profile&utm_campaign=developer_proof), or [start a public technical project review](https://github.com/Evolved-Designs/Evolved-Designs/issues/new?template=project-review.yml) without confidential details.

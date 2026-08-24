@@ -1,0 +1,74 @@
+name: Public website project review
+description: Share a non-confidential website, ecommerce, integration, or ongoing-care need for an initial technical response.
+title: "[Project review]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Use this route when a public technical handoff is useful. Do not post credentials, private customer data, unpublished business details, budgets that are not public, or other confidential information. For a private conversation, use the Evolved Designs contact page instead.
+  - type: dropdown
+    id: project_type
+    attributes:
+      label: Project type
+      options:
+        - Company or organization website
+        - Ecommerce
+        - Portal or learning system
+        - Integration or automation
+        - Accessibility, performance, SEO, or CRO
+        - Ongoing website care
+        - Other web system
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Outcome you need
+      description: Name the user or business result, not a preselected technology.
+      placeholder: Visitors need to understand our services and complete the right contact path without staff intervention.
+    validations:
+      required: true
+  - type: textarea
+    id: current_state
+    attributes:
+      label: Current state and first blocker
+      description: Briefly describe what exists now and the first decision or failure holding the work back.
+      placeholder: We have an existing WordPress site, but the service structure and ownership of content approval are unresolved.
+    validations:
+      required: true
+  - type: input
+    id: public_url
+    attributes:
+      label: Public URL, if useful
+      description: Include only a public page that is safe to review. Leave blank if none applies.
+      placeholder: https://example.org/
+    validations:
+      required: false
+  - type: dropdown
+    id: timing
+    attributes:
+      label: Decision horizon
+      options:
+        - This week
+        - This month
+        - This quarter
+        - Exploring without a fixed date
+    validations:
+      required: true
+  - type: textarea
+    id: acceptance
+    attributes:
+      label: What would make the first phase successful?
+      description: Give one observable acceptance signal or test.
+      placeholder: A visitor can find the correct service, complete the form on mobile, and our team receives a measurable qualified inquiry.
+    validations:
+      required: true
+  - type: checkboxes
+    id: public_boundary
+    attributes:
+      label: Public-information boundary
+      options:
+        - label: I confirm this issue contains no credentials, private customer data, confidential business information, or sensitive personal information.
+          required: true
+        - label: I understand this is a public initial review, not a contract, quote, security assessment, or guarantee.
+          required: true
