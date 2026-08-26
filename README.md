@@ -11,7 +11,7 @@ We also build and operate our own products:
 
 ## Choose a practical starting point
 
-- **Planning a website or store:** turn the request into a portable [Website Project Brief](https://evolved-designs.github.io/website-project-brief-builder/?utm_source=github&utm_medium=profile&utm_campaign=project_brief_builder), including local catalog, market, payment, shipping, and content boundaries for ecommerce work.
+- **Planning a website, store, multi-site redesign, or AI-assisted experience:** turn the request into a portable [Website Project Brief](https://evolved-designs.github.io/website-project-brief-builder/?utm_source=github&utm_medium=profile&utm_campaign=project_brief_builder), including site-estate, AI-role, human-review, catalog, market, payment, shipping, and content boundaries where they apply.
 - **Aligning a rebrand and redesign:** clarify audiences, identity, content, governance, accessibility, migration, and measurement in the [Brand & Website Alignment Brief](https://evolved-designs.github.io/brand-and-website-alignment-brief/?utm_source=github&utm_medium=profile&utm_campaign=brand_website_alignment_brief).
 - **Moving an existing site:** expose redirects, integrations, analytics, cutover, and rollback ownership in the [Website Migration Risk Register](https://evolved-designs.github.io/website-migration-risk-register/?utm_source=github&utm_medium=profile&utm_campaign=website_migration_risk_register).
 - **Taking over ongoing care:** make ownership, recovery, releases, and open work portable with the [Website Support Transition Brief](https://evolved-designs.github.io/website-support-transition-brief/?utm_source=github&utm_medium=profile&utm_campaign=website_support_transition_brief).
