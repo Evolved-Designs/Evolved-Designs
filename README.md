@@ -1,12 +1,12 @@
 # Evolved Designs
 
-We build practical web systems that help organizations launch, sell, and keep improving.
+We design and maintain websites, ecommerce stores, and web apps for growing organizations. We also connect the tools behind them and provide ongoing care.
 
 Evolved Designs is led by equal co-founders John and Maven Wenninger. Our work spans custom websites and web apps, ecommerce, integrations, accessibility, performance, SEO, and ongoing care.
 
-## Prefer to talk it through?
+## Tell us what you are planning
 
-If you are deciding what your website should do for the next stage of your business, [book a friendly, no-pressure 30-minute consultation](https://calendly.com/evolved-designs/30min?utm_source=github&utm_medium=profile&utm_campaign=owner_consultation_top&utm_content=primary_cta) with Evolved Designs. We will start with your goals and help identify a sensible next step, whether that is a focused improvement, a new build, or simply a clearer plan.
+If you are deciding what your website should do next, [book a 30-minute call](https://calendly.com/evolved-designs/30min?utm_source=github&utm_medium=profile&utm_campaign=direct_service_profile&utm_content=primary_cta) with Evolved Designs. We will start with your goals and identify a sensible next step, whether that is a focused improvement, a new build, or a clearer plan.
 
 
 ## What you can expect from Evolved Designs
