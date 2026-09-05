@@ -21,3 +21,7 @@ We also build and operate our own products:
 - **Exploring a research question:** choose a calm, source-aware route in Dystiny's native [Research Paths](https://dystiny.com/research-paths/?utm_source=github&utm_medium=profile&utm_campaign=dystiny_research_paths).
 
 Each tool works in the browser without submitting the answers. If the resulting brief points to implementation work, review our [website and web-app delivery approach](https://evolveddesigns.net/web-development/?utm_source=github&utm_medium=profile&utm_campaign=developer_proof&utm_content=service_path) and bring the non-confidential version to Evolved Designs.
+
+## Prefer to talk it through?
+
+If you are deciding what your website should do for the next stage of your business, [book a friendly, no-pressure 30-minute consultation](https://calendly.com/evolved-designs/30min?utm_source=github&utm_medium=profile&utm_campaign=owner_consultation&utm_content=direct_booking) with Evolved Designs. We will start with your goals and help identify a sensible next step, whether that is a focused improvement, a new build, or simply a clearer plan.
