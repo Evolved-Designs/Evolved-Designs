@@ -8,6 +8,15 @@ Evolved Designs is led by equal co-founders John and Maven Wenninger. Our work s
 
 If you are deciding what your website should do for the next stage of your business, [book a friendly, no-pressure 30-minute consultation](https://calendly.com/evolved-designs/30min?utm_source=github&utm_medium=profile&utm_campaign=owner_consultation_top&utm_content=primary_cta) with Evolved Designs. We will start with your goals and help identify a sensible next step, whether that is a focused improvement, a new build, or simply a clearer plan.
 
+
+## What you can expect from Evolved Designs
+
+- **Work stays with our team.** Evolved Designs is family-owned, and our public service policy says project work is handled in-house rather than sent overseas.
+- **Your completed website is yours.** After project completion and final payment, our published policy transfers the completed-site rights, source files, passwords, and necessary credentials to the client.
+- **The scope starts with your goal.** We connect website, ecommerce, SEO, content, and systems work only where it supports the business outcome you are trying to reach.
+
+If that working style fits what you need, [tell us about the project](https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=profile&utm_campaign=buyer_trust_proof&utm_content=working_style) or use the consultation link above. Keep credentials and customer data out of the first note.
+
 We also build and operate our own products:
 
 - [**Dayzy**](https://mydayzy.com/?utm_source=github&utm_medium=profile&utm_campaign=owned_products) helps groups plan, connect, remember, and reflect.
