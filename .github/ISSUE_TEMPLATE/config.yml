@@ -1,5 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: Private Evolved Designs contact
-    url: https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=issue_chooser&utm_campaign=public_project_review
-    about: Use the private contact page when project details should not be public.
+  - name: Send a private project note
+    url: "https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=issue_chooser&utm_campaign=website_project_intake&utm_content=private_note"
+    about: Use this route when project details should not be public.
+  - name: Book a 30-minute website call
+    url: "https://calendly.com/evolved-designs/30min?utm_source=github&utm_medium=issue_chooser&utm_campaign=website_project_intake&utm_content=call"
+    about: Choose a time for a short website conversation.
+  - name: Review Evolved Designs website services
+    url: "https://evolveddesigns.net/web-development/?utm_source=github&utm_medium=issue_chooser&utm_campaign=website_project_intake&utm_content=services"
+    about: See the website design and development services we offer.
