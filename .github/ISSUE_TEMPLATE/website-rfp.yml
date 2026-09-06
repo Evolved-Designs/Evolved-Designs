@@ -1,0 +1,82 @@
+name: Website RFP or proposal conversation
+description: Share a public website procurement notice or proposal request with Evolved Designs.
+title: "[Website RFP] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Evolved Designs designs, builds, improves, and maintains websites and web systems. This issue is a public starting point, not a submitted proposal, quote, acceptance, or commitment. Use the private project-note link on the issue chooser for non-public details.
+
+  - type: input
+    id: organization
+    attributes:
+      label: Organization
+      description: Name the organization requesting website services.
+      placeholder: Organization name
+    validations:
+      required: true
+
+  - type: input
+    id: public_notice
+    attributes:
+      label: Public notice or project URL
+      description: Link to the controlling public RFP, RFQ, procurement notice, or project brief.
+      placeholder: https://...
+    validations:
+      required: true
+
+  - type: input
+    id: deadline
+    attributes:
+      label: Response deadline and time zone
+      description: Copy the deadline from the controlling source.
+      placeholder: Month day, year, time, time zone
+    validations:
+      required: true
+
+  - type: dropdown
+    id: service
+    attributes:
+      label: Requested service
+      options:
+        - Website strategy or UX
+        - Website design and development
+        - Website redesign or migration
+        - Accessibility work
+        - Hosting, maintenance, or support
+        - Ecommerce, portal, or integration work
+        - Multiple services
+        - Not sure
+    validations:
+      required: true
+
+  - type: textarea
+    id: public_scope
+    attributes:
+      label: Public scope summary
+      description: Summarize only facts published in the controlling source. Do not include confidential information.
+      placeholder: The public notice requests...
+    validations:
+      required: true
+
+  - type: dropdown
+    id: next_step
+    attributes:
+      label: Useful next step
+      options:
+        - Confirm whether Evolved Designs should review the notice
+        - Schedule a short procurement conversation
+        - Send a private follow-up
+        - Answer a public question here
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: authority
+    attributes:
+      label: Source and privacy check
+      options:
+        - label: The linked notice or brief is public and currently available.
+          required: true
+        - label: I have not included passwords, customer records, private bid details, or other confidential information.
+          required: true
