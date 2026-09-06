@@ -15,6 +15,13 @@ Tell us what you are planning and what the business needs the website to help pe
 
 Please do not include passwords, customer records, or other confidential information in the first note.
 
+## Continue an existing website project
+
+Already have a website, store, or web tool in progress? Evolved Designs designs and maintains websites. Tell us what is already in place, what you want to launch, and which tools need to keep working. We can use that conversation to confirm fit and define a practical scope without assuming a rebuild.
+
+- [Start a private existing-project conversation](https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=profile&utm_campaign=existing_site_completion_conversation&utm_content=project_note)
+- [Book a 30-minute existing-project call](https://calendly.com/evolved-designs/30min?utm_source=github&utm_medium=profile&utm_campaign=existing_site_completion_conversation&utm_content=call)
+
 ## Products we operate
 
 - [Dayzy](https://mydayzy.com/?utm_source=github&utm_medium=profile&utm_campaign=owned_products) helps groups plan, connect, remember, and reflect.
