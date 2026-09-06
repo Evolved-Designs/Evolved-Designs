@@ -1,0 +1,73 @@
+name: Nonprofit website support
+description: Share a public, non-confidential supporter-path goal for a scoping conversation
+title: "[Nonprofit website] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Evolved Designs designs and maintains websites. Use this form to outline one public nonprofit supporter path for a scoping conversation.
+
+        This issue is public. Do not include donor, volunteer, participant, applicant, client, or beneficiary records; credentials; private analytics; unpublished financial information; or private links. Use the private project-note link below when the work cannot be described safely in public.
+
+        [Start a private project conversation](https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=issue_form&utm_campaign=nonprofit_supporter_journey_intake&utm_content=private_route) or [book a 30-minute website call](https://calendly.com/evolved-designs/30min?utm_source=github&utm_medium=issue_form&utm_campaign=nonprofit_supporter_journey_intake&utm_content=call).
+  - type: input
+    id: organization
+    attributes:
+      label: Organization
+      description: Public organization name only.
+      placeholder: Example nonprofit
+    validations:
+      required: true
+  - type: input
+    id: public_url
+    attributes:
+      label: Public starting URL
+      description: A public page where this supporter path begins.
+      placeholder: https://example.org/volunteer
+    validations:
+      required: true
+  - type: dropdown
+    id: supporter_path
+    attributes:
+      label: Supporter path
+      description: Choose the closest public journey.
+      options:
+        - Give or donate
+        - Volunteer
+        - Attend or register
+        - Join a team or apply
+        - Ask for help or contact
+        - Another public supporter path
+    validations:
+      required: true
+  - type: textarea
+    id: goal
+    attributes:
+      label: What should the website help someone do?
+      description: Describe the public goal and the result you want to discuss. Do not include private records.
+      placeholder: Help a visitor understand the volunteer options and reach the current interest form.
+    validations:
+      required: true
+  - type: textarea
+    id: preserve
+    attributes:
+      label: What already works and must remain in place?
+      description: Name current public-facing systems or workflows without sharing access details.
+      placeholder: Our existing donation platform and volunteer form should remain.
+    validations:
+      required: true
+  - type: input
+    id: timing
+    attributes:
+      label: Timing
+      description: Share a real public date or a general timing goal. This does not create a delivery commitment.
+      placeholder: Before our public October campaign
+  - type: checkboxes
+    id: public_confirmation
+    attributes:
+      label: Public-information confirmation
+      options:
+        - label: I have not included confidential information, credentials, private analytics, or personal records.
+          required: true
+        - label: I understand this starts a scoping conversation and is not a quote, schedule, contract, or accessibility certification.
+          required: true
