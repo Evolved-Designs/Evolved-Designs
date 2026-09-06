@@ -24,6 +24,22 @@ body:
     validations:
       required: true
 
+  - type: dropdown
+    id: platform
+    attributes:
+      label: Which platform is the current project using?
+      description: Choose the closest answer. Do not include access details.
+      options:
+        - Wix or Wix Studio
+        - WordPress or WooCommerce
+        - Shopify
+        - Squarespace
+        - A custom application
+        - Another platform
+        - Not sure yet
+    validations:
+      required: true
+
   - type: input
     id: public_url
     attributes:
@@ -37,6 +53,15 @@ body:
       label: What must work when this phase is done?
       description: Name one visitor, customer, staff, or owner path in plain language.
       placeholder: A visitor should be able to...
+    validations:
+      required: true
+
+  - type: textarea
+    id: preserve
+    attributes:
+      label: What already works and must remain working?
+      description: Name non-confidential systems or workflows such as booking, payments, forms, invoicing, or staff editing. Do not share credentials or private links.
+      placeholder: Keep the current booking and payment flow working while...
     validations:
       required: true
 
