@@ -4,6 +4,15 @@ We design, build, and maintain websites, ecommerce stores, and custom web tools 
 
 Evolved Designs is a family-owned studio led by co-founders John and Maven Wenninger. Project work stays with our in-house team. We can help with a focused website improvement, a new build, online selling, system connections, graphic design, or ongoing website care.
 
+## Azle September website updates
+
+Azle's official calendar lists the Labor Day closure on September 7 and Sting Fling on September 12. If your business needs current holiday hours, event details, menus, services, photos, or contact information published, Evolved Designs designs and maintains websites here in Azle. We can discuss a focused update or ongoing website care.
+
+- [Start a private Azle website conversation](https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=profile&utm_campaign=azle_september_website_updates&utm_content=project_note)
+- [Book a 30-minute website call](https://calendly.com/evolved-designs/30min?utm_source=github&utm_medium=profile&utm_campaign=azle_september_website_updates&utm_content=call)
+
+[Check the City of Azle calendar](https://cityofazle.org/calendar.aspx?CID=0&month=9&view=list&year=2026). Evolved Designs is not affiliated with the City or Sting Fling, and no completion date is promised.
+
 ## Start with your goal
 
 Tell us what you are planning and what the business needs the website to help people do. We will use that to identify a sensible next step.
