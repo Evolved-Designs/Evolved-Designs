@@ -7,7 +7,9 @@ body:
       value: |
         Evolved Designs finishes, repairs, tests, and hands off existing websites, stores, portals, and web tools in bounded phases.
 
-        This issue will be public. Read [Website Rescue & Completion](https://evolveddesigns.net/website-rescue-completion/) first. For private details, use the [private project note](https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=owned_intake&utm_campaign=existing_website_completion_brief).
+        Read [Website Rescue & Completion](https://evolveddesigns.net/website-rescue-completion/) before starting. This issue will be public, so keep project details private through the [private project note](https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=owned_intake&utm_campaign=existing_website_completion_brief&utm_content=private_note).
+
+        If a short conversation is the useful next step, [book a 30-minute existing-website call](https://calendly.com/evolved-designs/30min?utm_source=github&utm_medium=owned_intake&utm_campaign=existing_website_completion_brief&utm_content=call).
 
   - type: dropdown
     id: site_type
@@ -95,4 +97,3 @@ body:
     attributes:
       value: |
         Sending this brief does not create a quote, proposal, contract, schedule, or promise of availability. Evolved Designs will confirm fit and scope before proposing work.
-
