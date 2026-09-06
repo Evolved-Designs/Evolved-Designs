@@ -30,6 +30,7 @@ Already have a website, store, or web tool in progress? Evolved Designs designs 
 
 - [Start a private existing-project conversation](https://evolveddesigns.net/contact-us/?utm_source=github&utm_medium=profile&utm_campaign=existing_site_completion_conversation&utm_content=project_note)
 - [Book a 30-minute existing-project call](https://calendly.com/evolved-designs/30min?utm_source=github&utm_medium=profile&utm_campaign=existing_site_completion_conversation&utm_content=call)
+- [Outline a non-confidential existing project](https://github.com/Evolved-Designs/Evolved-Designs/issues/new?template=existing-website-completion.yml)
 
 ## Products we operate
 
